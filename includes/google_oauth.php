@@ -2,7 +2,7 @@
 // Google OAuth config for Admin login.
 // NOTE: Keep these values private. Do not commit real secrets to public repos.
 const GOOGLE_CLIENT_ID = '467208706110-5cob2l0rbe2esb2jeor37qqn164vqpm0.apps.googleusercontent.com';
-const GOOGLE_CLIENT_SECRET = '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';
+const GOOGLE_CLIENT_SECRET = 'YOUR_SECRET_HERE';
 
 function google_base_url(): string {
     $scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
