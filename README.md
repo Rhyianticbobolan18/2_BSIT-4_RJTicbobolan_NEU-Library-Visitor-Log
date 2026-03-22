@@ -17,7 +17,7 @@
   * **Admin Dashboard Login:**
     * Google Authentication `(jcesperanza@neu.edu.ph)`
     * Credentials: `2610001` or `jcesperanza@neu.edu.ph`
-    * Password: `admin123`
+    * Password: `jerryesperanza`
 
 
 ---
@@ -32,13 +32,3 @@
 * ✅ Blocklist management and access restrictions
 * ✅ Statistics reports with cards, trends, and summaries
 ---
-
-### 👥 USER PROFILES
-
-**🎓 Students:**
-* [📄 STUDENT USER LIST (PDF)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/raw/main/USER%20DETAILS/NEU_Student_Users_2026-03-18.pdf?download=)
-* [📊 STUDENT USER LIST (CSV)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/blob/main/USER%20DETAILS/STUDENT%20DETAILS.csv?download=)
-
-**🔑 ADMIN:**
-* [📄 ADMIN USER LIST (PDF)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/raw/main/USER%20DETAILS/NEU_Faculty_Admin_Users_2026-03-18.pdf?download=)
-* [📊 ADMIN USER LIST (CSV - CONTAINS PASSWORDS)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/blob/main/USER%20DETAILS/ADMIN%20DETAILS.csv?download=)
