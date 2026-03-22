@@ -4,19 +4,22 @@
 **NEU Library Visitor Log System for tracking student/employee entries, QR passes, and admin reporting.**
 
 ---
+
 * 🔗 ***My NEU Library Visitor Log:*** [Ticbobolan NEU Library Visitor Log.](https://neulibraryvisitlogs.page.gd/index.php)
   *(Supports Google Authentication, ID Number, and Institutional Email for No-Wifi Local Environments)*
 
 * 👤 **Prof. Jeremias C. Esperanza Login Details:**
   * **Visitor Login Kiosk:**
     * Google Authentication `(jcesperanza@neu.edu.ph)`
+    * [🖼️ DOWNLOAD QR SCAN PASS](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/blob/main/SIR%20JERRY%20QR%20CODE%20PASS.png?download=)
     * ID Number: `2610001`
     * Institutional Email: `jcesperanza@neu.edu.ph`
   * **Admin Dashboard Login:**
     * Google Authentication `(jcesperanza@neu.edu.ph)`
     * Credentials: `2610001` or `jcesperanza@neu.edu.ph`
     * Password: `admin123`
-      
+
+
 ---
 
 ## ✨ Features
@@ -28,5 +31,14 @@
 * ✅ Export reports to **PDF** and **Excel/CSV**
 * ✅ Blocklist management and access restrictions
 * ✅ Statistics reports with cards, trends, and summaries
-  
 ---
+
+### 👥 USER PROFILES
+
+**🎓 Students:**
+* [📄 STUDENT USER LIST (PDF)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/raw/main/USER%20DETAILS/NEU_Student_Users_2026-03-18.pdf?download=)
+* [📊 STUDENT USER LIST (CSV)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/blob/main/USER%20DETAILS/STUDENT%20DETAILS.csv?download=)
+
+**🔑 ADMIN:**
+* [📄 ADMIN USER LIST (PDF)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/raw/main/USER%20DETAILS/NEU_Faculty_Admin_Users_2026-03-18.pdf?download=)
+* [📊 ADMIN USER LIST (CSV - CONTAINS PASSWORDS)](https://github.com/Rhyianticbobolan18/2_BSIT-4_RJTicbobolan_NEU-Library-Visitor-Log/blob/main/USER%20DETAILS/ADMIN%20DETAILS.csv?download=)
